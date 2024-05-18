@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Hi, I am your friendly neighbourhood full stack web developer!!</h3>
 
-<img align="right" alt="Coding" width="400" src="./1.jpg">
+<img align="right" alt="Coding" width="300" src="./1.jpg">
 
 
 
