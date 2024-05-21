@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 Visit my Portfolio website for latest projects [https://portfoilio-demo-1.vercel.app/](https://portfoilio-demo-1.vercel.app/)
+- 👨‍💻 Visit my Portfolio website for latest projects https://aditya-portfolio-singh.vercel.app/
 
 - 📝 I regularly write articles on [https://medium.com/@workwithracian](https://medium.com/@workwithracian)
 
