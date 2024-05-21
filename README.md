@@ -1,7 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=AdityaSingh772&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 ![Header](./5.png)
 
+[![](https://visitcount.itsvg.in/api?id=AdityaSingh772&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Hi, I am your friendly neighbourhood full stack web developer!!</h3>
 
