@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=AdityaSingh772&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 ![Header](./5.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
